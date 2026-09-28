@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/knitspec",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Knit color spec values and contrast-safe presentation helpers.",
+  "bin": {
+    "knitspec": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/knitspec.git"
+  },
+  "homepage": "https://theworker02.github.io/knitspec/",
+  "keywords": [
+    "knit",
+    "spec",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
